@@ -4,7 +4,7 @@ Pyrogram
 Pymongo
 Requests 
 TgCrypto
-https://github.com/pyrogram/pyrogram.git
-https://github.com/mongodb/mongo-python-driver.git
-https://github.com/mongodb/motor.git
-https://github.com/rthalley/dnspython.git
+https://github.com/pyrogram/pyrogram/master.zip
+https://github.com/mongodb/mongo-python-driver/master.zip
+https://github.com/mongodb/motor/master.zip
+https://github.com/rthalley/dnspython/master.zip
